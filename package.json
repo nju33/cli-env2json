@@ -1,0 +1,16 @@
+{
+  "name": "cli-env2json",
+  "version": "0.0.0",
+  "main": "index.js",
+  "bin": {
+    "env2json": "dist/index.js",
+    "e2j": "dist/index.js"
+  },
+  "repository": "nju33/cli-env2json",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "yarn build",
+    "build": "npx tsc"
+  }
+}
