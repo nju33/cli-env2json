@@ -1,6 +1,6 @@
 {
   "name": "cli-env2json",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "bin": {
     "env2json": "dist/index.js",
