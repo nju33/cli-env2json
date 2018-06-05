@@ -15,5 +15,13 @@
   "scripts": {
     "prepare": "yarn build",
     "build": "npx tsc"
+  },
+  "dependencies": {
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.4",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.1"
   }
 }
