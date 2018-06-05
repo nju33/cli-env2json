@@ -9,6 +9,9 @@
   "repository": "nju33/cli-env2json",
   "author": "nju33 <nju33.ki@gmail.com>",
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "prepare": "yarn build",
     "build": "npx tsc"
